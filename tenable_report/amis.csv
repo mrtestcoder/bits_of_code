@@ -1,0 +1,4 @@
+ami_id,name,owner_id
+ami-12345678,Custom Linux AMI,123456789012
+ami-87654321,Windows Server 2019,123456789012
+ami-abcdefgh,Ubuntu 20.04 LTS,123456789012

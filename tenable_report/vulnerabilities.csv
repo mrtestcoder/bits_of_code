@@ -1,0 +1,5 @@
+vulnerability_id,severity,plugin_id,name
+1,High,12345,Apache Struts RCE
+2,Medium,54321,OpenSSL Heartbleed
+3,High,67890,Shellshock Bash Vulnerability
+4,Low,11223,Directory Traversal

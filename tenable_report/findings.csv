@@ -1,0 +1,6 @@
+finding_id,vulnerability_id,asset_id,port,protocol
+101,1,ami-12345678,443,tcp
+102,2,ami-87654321,443,tcp
+103,1,ami-abcdefgh,8080,tcp
+104,3,i-abcdef12,22,tcp
+105,4,i-123456ab,80,tcp
